@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Mesut20&color=fb4362)
 
-🎯 Passionate about **fullstack development**, **web technologies**, and building projects that solve real problems.  
+🎯 Passionate about **Fullstack Development**, **Web Technologies**, **AI** and building projects that solve real problems.  
 💡 Always learning, always improving.  
 
 ---
@@ -18,6 +18,9 @@
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
 <img alt="Blazor" src="https://img.shields.io/badge/-Blazor-5C2D91?style=flat-square&logo=blazor&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white" />
+<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img alt="ASP.NET Core" src="https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
